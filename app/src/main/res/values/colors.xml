@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FEA47F</color>
+    <color name="colorPrimaryDark">#F97F51</color>
+    <color name="colorAccent">#F8EFBA</color>
+    <color name="MistyRose">#FFE4E1</color>
+    <color name="White">#FFF</color>
+
+
+    <color name="PaleVioletRed">#DB7093</color>
+    <color name="Chocolate">#D2691E</color>
+    <color name="Orange">#FFA500</color>
+    <color name="LightSalmon">#FFA07A</color>
+    <color name="DarkOrange">#FF8C00</color>
+    <color name="Coral">#FF7F50</color>
+    <color name="HotPink">#FF69B4</color>
+    <color name="Tomato">#FF6347</color>
+
+    <array name="colors">
+
+    <item name="DarkOrange">@color/DarkOrange</item>
+    <item name="Coral">@color/Coral</item>
+    <item name="Chocolate">@color/Chocolate</item>
+    <item name="PaleVioletRed">@color/PaleVioletRed</item>
+    <item name="Orange">@color/Orange</item>
+    <item name="LightSalmon">@color/LightSalmon</item>
+    <item name="HotPink">@color/HotPink</item>
+    <item name="Tomato">@color/Tomato</item>
+    </array>
+</resources>
